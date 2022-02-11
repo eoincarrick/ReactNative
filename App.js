@@ -20,7 +20,7 @@ export default function App() {
       { id: Math.random().toString(), value: goalTitle },
     ]);
 
-    // setIsAddMode(false);
+    setIsAddMode(false);
   };
 
   //Deleting a goal item
